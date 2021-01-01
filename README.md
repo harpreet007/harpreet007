@@ -1,13 +1,9 @@
 ### Hola, I'm Harpreet Singh! 👋
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harpreet007)](https://github.com/harpreet007/github-readme-stats)
-![Harpreet's github stats](https://github-readme-stats.vercel.app/api?username=harpreet007&count_private=true)
-![Harpreet's github stats](https://github-readme-stats.vercel.app/api?username=harpreet007&show_icons=true&theme=radical)
+<!--**harpreet007/harpreet007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-**harpreet007/harpreet007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<!--Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -17,6 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harpreet007)](https://github.com/harpreet007/github-readme-stats)
+
+![Harpreet's github stats](https://github-readme-stats.vercel.app/api?username=harpreet007&count_private=true)
+
+
 
 
 
