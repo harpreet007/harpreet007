@@ -1,5 +1,5 @@
 ### Hola, I'm Harpreet Singh! 👋
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I am a dedicated and efficient full stack developer with experience in designing and building web apps using java and javascript based technology.
 
 <!--**harpreet007/harpreet007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
